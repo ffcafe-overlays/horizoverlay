@@ -20,7 +20,7 @@ export const defaultConfig = {
   zoom: '1',
   discord: '',
   maxCombatants: 8,
-  locale: 'enUS',
+  locale: 'zhCN',
   configWindow: {
     width: 1300,
     height: 239
